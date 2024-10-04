@@ -14,3 +14,7 @@ Smart ERP! MERN College ERP project created using **React** for the UI,**Redux**
 - Frontend Error Alerts.
 - Smoother Transitions between screens.
 <hr/>
+
+
+<h2> * This is <b>virus</b> project</h2>
+<h2>Dont run this project!</h2>
